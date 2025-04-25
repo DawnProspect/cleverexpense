@@ -12,3 +12,11 @@ Clever Expense is going to be a remake my previous individual project, hopefully
 2. MongoDB
 
 ## This project is for personal use and learning purposes only. Do not copy, reuse, or distribute without explicit permission from the author.
+
+
+
+## Homework
+
+1. Decide what framework you want to use
+2. Check mongodb
+3. Check features from the past project
